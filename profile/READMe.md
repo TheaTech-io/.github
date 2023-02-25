@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://i.ibb.co/HrRJnNx/tenor.gif" align="center" style="width: 50%" />
+<img src="https://i.ibb.co/TqvjZCB/tenor-2.gif" align="center" style="width: 50%" />
 </div> 
 
 
