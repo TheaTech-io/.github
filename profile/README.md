@@ -15,6 +15,8 @@
 
 
 
+
+
 <br/>  
 - ◉TheaTech® establishes the future ♥️ with its studies in different technological fields, R&D activities and investments, strong and strategic partnerships, and continues its efforts to make the greatest contribution to the ecosystem at the point reached in the technology revolution. 🧨 
 <br/>  
