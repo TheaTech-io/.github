@@ -1,4 +1,4 @@
-# .github
+
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -6,29 +6,23 @@
   
 
 # <div align="center">🚀 Building The Future 👨‍💻  👽 🥇
-➖</div>  
-  
-
+</div>  
+<br/>  
 - ◉TheaTech® establishes the future ♥️ with its studies in different technological fields, R&D activities and investments, strong and strategic partnerships, and continues its efforts to make the greatest contribution to the ecosystem at the point reached in the technology revolution. 🧨 
 <br/>  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
-  
-
+<br/>  
 - 🖥️ Our work is mainly on E-Commerce platforms 💻 and applications 📲 on all around the world and focusing on the infrastructures of these technologies in different sectors and new projects. 🧲
 <br/>  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
-  
-
+<br/>  
 - ❓ Ask us about anything related to E-Commerce and related technologies both front and back side❗️
  <br/>  
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
-  
-
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+<br/>  
 - ⚡ Fun fact: I use tabs over spaces 🛎️ and of course CTRL-C 🧩🔌 CTRL-V
 <br/>  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
-  
-
 <br/>  
 
 
@@ -113,6 +107,6 @@
 <br/>  
 
 
-<br />
+
 
 ----
