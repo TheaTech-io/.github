@@ -8,9 +8,10 @@
 # <div align="center">🚀 Building The Future 👨‍💻  👽 🥇
 </div>  
 
+
 <div align="center">
-<img src="https://i.ibb.co/HrRJnNx/tenor.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://i.ibb.co/HrRJnNx/tenor.gif" align="center" style="width: 50%" />
+</div> 
 
 
 
@@ -31,6 +32,8 @@
 <br/>  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖  
 <br/>  
+
+
 
 
 ##Technologies we are using:
